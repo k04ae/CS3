@@ -68,7 +68,7 @@ REPEAT
     Calculate Item Cost = Price × Quantity.
     Add Item Cost to Total Cost.
 
-    Ask cashier if another item needs to be added.
+Ask cashier if another item needs to be added.
 UNTIL the answer is NO.
 
 Display Total Cost.

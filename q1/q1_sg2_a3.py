@@ -1,14 +1,19 @@
-birth_year = int(input("Enter your birth year: ")
+year = input("Enter your birth year: ")
+print("")
 
+if not year.isdigit():
+    print("Invalid input")
+    exit()
+    
+birth_year = int(year)
+    
 if birth_year < 1900:
-                 print("Invalid Year, it should not be earlier than 1900")
-
-except ValueError:
-                 exit()
+    print("Invalid Year, it should not be earlier than 1900")
+    exit()
 
 zodiac_sign = (birth_year - 1900) % 12
 
-if zodiac sign == 0:
+if zodiac_sign == 0:
   print("Your Chinese Zodiac Sign is : Rat (鼠 / Shǔ)")
 
 if zodiac_sign == 1:

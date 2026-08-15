@@ -36,13 +36,13 @@ if zodiac_sign == 8:
   print("Your Chinese Zodiac Sign is : Monkey (猴 / Hóu)")
 
 if zodiac_sign == 9:
-  print("Your Chinese Zodiac Sign is : Pig (猪 / Zhū)")
+  print("Your Chinese Zodiac Sign is : Rooster (鸡 / Jī)")
 
 if zodiac_sign == 10:
   print("Your Chinese Zodiac Sign is : Dog (狗 / Gǒu)")
 
 if zodiac_sign == 11:
-  print("Your Chinese Zodiac Sign is : Rat (鼠 / Shǔ)")
+  print("Your Chinese Zodiac Sign is : Pig (猪 / Zhū)")
 
 
   

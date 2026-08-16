@@ -2,7 +2,7 @@ year = input("Enter your birth year: ")
 print("")
 
 if not year.isdigit():
-    print("Invalid input")
+    print("Invalid Input")
     exit()
     
 birth_year = int(year)

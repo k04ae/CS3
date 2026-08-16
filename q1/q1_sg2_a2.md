@@ -3,7 +3,7 @@ Code Quality Assessment Worksheet
 
 Section: 9-Samat Score:
 
-C# / Name: #24 / Kayle Doculan Date: 08/15/26
+C# / Name: #22 / Kayle Doculan Date: 08/15/26
 Groupmates: Miel Evangelista, Jasmine Falla
 
 1. Efficiency

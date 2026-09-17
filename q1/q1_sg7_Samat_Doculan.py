@@ -24,7 +24,7 @@ class Tray:
 
     def display_beakers(self):
         for beaker in self.beakers:
-            beaker.display_info()
+            beaker.display_information()
     
     def __del__(self):
         print("Tray deleted. Its beakers are no longer accessible.")
